@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ANIVE.Plugins", "ANIVE.Plugins.csproj", "{F36675B9-38F2-0D3F-DDD0-8F5825279CA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ANIVE", "ANIVE.csproj", "{78F3C42E-5449-688C-F22E-3AB028D521D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ANIVE.Editor", "ANIVE.Editor.csproj", "{117CA50D-A4C1-1B8D-FAC4-E337C3198A6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F36675B9-38F2-0D3F-DDD0-8F5825279CA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F36675B9-38F2-0D3F-DDD0-8F5825279CA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F36675B9-38F2-0D3F-DDD0-8F5825279CA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F36675B9-38F2-0D3F-DDD0-8F5825279CA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78F3C42E-5449-688C-F22E-3AB028D521D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F3C42E-5449-688C-F22E-3AB028D521D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F3C42E-5449-688C-F22E-3AB028D521D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F3C42E-5449-688C-F22E-3AB028D521D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{117CA50D-A4C1-1B8D-FAC4-E337C3198A6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{117CA50D-A4C1-1B8D-FAC4-E337C3198A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{117CA50D-A4C1-1B8D-FAC4-E337C3198A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{117CA50D-A4C1-1B8D-FAC4-E337C3198A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
